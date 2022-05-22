@@ -1,0 +1,22 @@
+C:\Users\Kosol\source\repos\Развиваемся\bin\Debug\Развиваемся.exe.config
+C:\Users\Kosol\source\repos\Развиваемся\bin\Debug\Развиваемся.exe
+C:\Users\Kosol\source\repos\Развиваемся\bin\Debug\Развиваемся.pdb
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Добудь руду (Кликер).csproj.AssemblyReference.cache
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.FormCklicker.resources
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.FAQForm.resources
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.Properties.Resources.resources
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Добудь руду (Кликер).csproj.GenerateResource.cache
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Добудь руду (Кликер).csproj.CoreCompileInputs.cache
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.exe
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.pdb
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\bin\Debug\Развиваемся.exe.config
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\bin\Debug\Развиваемся.exe
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\bin\Debug\Развиваемся.pdb
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Добудь руду (Кликер).csproj.AssemblyReference.cache
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Развиваемся.FormCklicker.resources
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Развиваемся.FAQForm.resources
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Развиваемся.Properties.Resources.resources
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Добудь руду (Кликер).csproj.GenerateResource.cache
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Добудь руду (Кликер).csproj.CoreCompileInputs.cache
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Развиваемся.exe
+C:\Users\Kosol\source\repos\Добудь руду (Кликер)\obj\Debug\Развиваемся.pdb

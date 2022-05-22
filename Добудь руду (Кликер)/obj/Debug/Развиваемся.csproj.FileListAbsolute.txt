@@ -1,0 +1,11 @@
+C:\Users\Kosol\source\repos\Развиваемся\bin\Debug\Развиваемся.exe.config
+C:\Users\Kosol\source\repos\Развиваемся\bin\Debug\Развиваемся.exe
+C:\Users\Kosol\source\repos\Развиваемся\bin\Debug\Развиваемся.pdb
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.csproj.AssemblyReference.cache
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.Properties.Resources.resources
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.csproj.GenerateResource.cache
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.csproj.CoreCompileInputs.cache
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.exe
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.pdb
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.FormCklicker.resources
+C:\Users\Kosol\source\repos\Развиваемся\obj\Debug\Развиваемся.FAQForm.resources
