@@ -1,0 +1,21 @@
+C:\Users\Kosol\source\repos\Примитивный Кликер\bin\Debug\Примитивный Кликер.exe.config
+C:\Users\Kosol\source\repos\Примитивный Кликер\bin\Debug\Примитивный Кликер.exe
+C:\Users\Kosol\source\repos\Примитивный Кликер\bin\Debug\Примитивный Кликер.pdb
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.AssemblyReference.cache
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный_Кликер.Form1.resources
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный_Кликер.Properties.Resources.resources
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.GenerateResource.cache
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.CoreCompileInputs.cache
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный Кликер.exe
+C:\Users\Kosol\source\repos\Примитивный Кликер\obj\Debug\Примитивный Кликер.pdb
+C:\Users\Admin\Desktop\Примитивный Кликер\bin\Debug\Примитивный Кликер.exe.config
+C:\Users\Admin\Desktop\Примитивный Кликер\bin\Debug\Примитивный Кликер.exe
+C:\Users\Admin\Desktop\Примитивный Кликер\bin\Debug\Примитивный Кликер.pdb
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный_Кликер.Form1.resources
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный_Кликер.Properties.Resources.resources
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный Кликер.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный Кликер.exe
+C:\Users\Admin\Desktop\Примитивный Кликер\obj\Debug\Примитивный Кликер.pdb
